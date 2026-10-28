@@ -212,7 +212,7 @@ own filters or global overrides.
 | `11_lee_bounds.do` | `lee_bounds.{tex,csv}` | Lee (2009) bounds for conditional outcomes |
 | `12_greg_ethnicity.do` | `results_greg_reducedform.{tex,csv}` | GREG ethnic map instead of Murdock |
 | `13_twoway_cluster.do` | `twoway_cluster_comparison.{tex,csv}` | Two-way ethnicity x country clustering |
-| `14_romano_wolf.do` | `romano_wolf.{tex,csv}` | Multiple-hypothesis correction (disabled by default) |
+| `14_romano_wolf.do` | `romano_wolf.{tex,csv}` | Multiple-hypothesis correction |
 | `15_summary_stats.do` | `summary_stats_{mean,median}.{tex,csv}` | Descriptives on the full country DHS samples |
 | `16_balance_test.do` | `balance_table.tex` | RD covariate balance |
 | `17_graphs.do` | 14 `*_rd_plot.png` | RD plots for child marriage and all 13 outcomes |
